@@ -1,0 +1,22 @@
+**Subject: Purchase Order – 123 Units of Thermostat Control**
+
+---
+
+Hi there,
+
+Hope you're doing well! We'd like to place an order with Bluefield Plastics for some supplies we need.
+
+Here are the details:
+
+**Product:** Thermostat control
+**Quantity:** 123 units
+**Unit Price:** $113.40
+**Total Amount:** $13,948.20
+**Delivery Needed By:** November 23, 2026
+
+Could you confirm that you can fulfill this order by the date we need it? Let me know if you need any additional information from us.
+
+Thanks so much!
+
+Best regards,
+Acme Manufacturing

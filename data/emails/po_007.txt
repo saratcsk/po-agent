@@ -1,0 +1,22 @@
+**Subject: Quick PO – Copper Wire Order for Acme Manufacturing**
+
+---
+
+Hi there,
+
+Hope you're doing well! We'd like to place an order with Bluefield Plastics for some copper wire we need to get in stock.
+
+Here are the details:
+
+**Item:** Copper wire 10m
+**Quantity:** 16 units
+**Unit Price:** $185.90
+**Total:** $2,974.40
+**Needed by:** December 06, 2026
+
+Could you confirm availability and get this shipped out when you have a chance? Let us know if you need anything else from our end.
+
+Thanks!
+
+Best,
+Acme Manufacturing Buyer

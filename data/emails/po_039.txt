@@ -1,0 +1,19 @@
+**Subject: Purchase Order – Fan Motor 1HP**
+
+Dear Ironbridge Castings,
+
+Please process the following purchase order:
+
+**Item:** Fan Motor 1HP
+**Quantity:** 92 units
+**Unit Price:** $148.44
+**Total Amount:** $13,656.48
+**Required Delivery Date:** December 09, 2026
+
+Please confirm receipt and expected shipment date at your earliest convenience.
+
+Thank you.
+
+Best regards,
+Acme Manufacturing
+Buyer

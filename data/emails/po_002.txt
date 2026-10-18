@@ -1,0 +1,18 @@
+**Subject: Purchase Order – Titanium Flange 4in**
+
+Dear Riverstone Electric,
+
+Please process the following purchase order:
+
+• **Product:** Titanium flange 4in
+• **Quantity:** 29 units
+• **Unit Price:** $57.36
+• **Total Amount:** $1,663.44
+• **Required Delivery Date:** November 24, 2026
+
+Please confirm receipt and estimated delivery date at your earliest convenience.
+
+Thank you,
+
+Acme Manufacturing
+Buyer

@@ -1,0 +1,25 @@
+**Subject: FW: Purchase Order - Titanium Flange 4in**
+
+---
+
+From: buyer@acmemanufacturing.com
+To: sales@pinecrestmotors.com
+Date: [Current Date]
+
+Hi Pinecrest Motors,
+
+Please find our purchase order details below:
+
+**Order Number:** PO-[Auto-generated]
+**Quantity:** 76 units
+**Product:** Titanium flange 4in
+**Unit Price:** $19.25
+**Total Amount:** $1,463.00
+**Required Delivery Date:** December 16, 2026
+
+Please confirm receipt of this order and provide an estimated ship date.
+
+Thank you,
+
+Acme Manufacturing
+Procurement Department

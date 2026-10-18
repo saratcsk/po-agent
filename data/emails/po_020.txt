@@ -1,0 +1,20 @@
+**Subject: Purchase Order – 213 Units Paint Thinner 1gal**
+
+Dear Granite Tooling,
+
+Please process the following purchase order:
+
+**Order Details:**
+- Product: Paint Thinner 1gal
+- Quantity: 213 units
+- Unit Price: $87.30
+- Total Amount: $18,595.90
+- Required Delivery Date: November 05, 2026
+
+Please confirm receipt and expected shipment date at your earliest convenience.
+
+Thank you.
+
+Best regards,
+Acme Manufacturing
+Buyer

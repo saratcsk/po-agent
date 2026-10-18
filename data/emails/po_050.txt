@@ -1,0 +1,29 @@
+Subject: Purchase Order Submission – Brass Fittings Order for Year-End Delivery
+
+Dear Northwind Metals Team,
+
+I hope this email finds you well and that business has been treating you kindly as we head into the final weeks of the year. It's been quite a busy season here at Acme Manufacturing, and I must say it's been a pleasure working with your company over the past months. The quality of your products and the reliability of your service have truly set you apart in the marketplace.
+
+I'm reaching out today to place a purchase order with your organization for some materials we need to support our upcoming production schedule. As you know, the end of the year can be hectic, but we're trying to plan ahead to ensure we have everything we need to meet our commitments to our own customers.
+
+Here are the details of our purchase order:
+
+**Purchase Order Number:** 183
+
+**Item:** Brass Fitting
+
+**Quantity:** 183 units
+
+**Unit Price:** $202.17
+
+**Total Order Value:** $36,996.11
+
+**Required Delivery Date:** December 25, 2026
+
+We would greatly appreciate it if you could confirm receipt of this order at your earliest convenience and provide us with an estimated shipping date. Please let us know if there are any questions regarding the specifications or delivery requirements, or if you need any additional information from our end.
+
+Thank you for your continued partnership and support. We look forward to receiving these materials by the requested date.
+
+Best regards,
+
+Acme Manufacturing Buyer

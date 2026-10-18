@@ -1,0 +1,19 @@
+**Subject: Purchase Order – Cable Tie Pack**
+
+Dear Summit Fasteners,
+
+Please process the following purchase order:
+
+• **Quantity:** 176 units
+• **Product:** Cable tie pack
+• **Unit Price:** $190.18
+• **Total Amount:** $33,471.68
+• **Delivery Date Required:** November 05, 2026
+• **Buyer:** Acme Manufacturing
+
+Please confirm receipt and expected shipment date.
+
+Thank you,
+
+Acme Manufacturing
+Purchasing Department

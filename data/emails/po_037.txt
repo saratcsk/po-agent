@@ -1,0 +1,27 @@
+**Subject: FW: Purchase Order - Drill Bit Sets**
+
+---
+
+**From:** buyer@acmemanufacturing.com  
+**To:** sales@riverstone electric.com  
+**Date:** [Current Date]  
+**Subject:** FW: Purchase Order - Drill Bit Sets
+
+Hello,
+
+Please see the purchase order details below for your processing.
+
+**Purchase Order Details:**
+
+- **Quantity:** 128 units
+- **Item:** Drill bit set
+- **Unit Price:** $202.74
+- **Total Amount:** $25,950.72
+- **Delivery Required By:** December 11, 2026
+
+Please confirm receipt of this order and provide an expected shipment date at your earliest convenience.
+
+Thank you,
+
+Acme Manufacturing  
+Procurement Department

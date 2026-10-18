@@ -1,0 +1,20 @@
+**Subject: Purchase Order – Epoxy Primer 1gal**
+
+---
+
+Dear Pinecrest Motors,
+
+Please process the following purchase order:
+
+• **Quantity:** 8 units
+• **Item:** Epoxy primer 1gal
+• **Unit Price:** $59.70
+• **Total Amount:** $477.60
+• **Delivery Date Required:** December 02, 2026
+• **Buyer:** Acme Manufacturing
+
+Please confirm receipt of this order and provide an estimated ship date.
+
+Thank you,
+
+Acme Manufacturing

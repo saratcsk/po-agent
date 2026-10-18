@@ -1,0 +1,26 @@
+Subject: FW: Purchase Order - Hex bolt M8
+
+---
+
+From: buyer@acmemanufacturing.com
+To: orders@summitfasteners.com
+Date: [Current Date]
+
+Hello,
+
+Please see the purchase order details below:
+
+**Purchase Order Details:**
+
+- Quantity: 194 units
+- Item: Hex bolt M8
+- Unit Price: $27.42
+- Total Amount: $5,319.48
+- Required Delivery Date: November 17, 2026
+
+Please confirm receipt of this order and provide an estimated ship date.
+
+Thank you,
+
+Acme Manufacturing
+Buyer

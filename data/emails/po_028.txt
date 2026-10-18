@@ -1,0 +1,27 @@
+**Subject: FW: Purchase Order - Circuit Breaker 20A Units**
+
+---
+
+From: buyer@acmemanufacturing.com
+To: sales@pinecrestmotors.com
+Date: [Current Date]
+
+---
+
+Dear Pinecrest Motors,
+
+Please process the following purchase order:
+
+**Order Details:**
+- Product: Circuit breaker 20A
+- Quantity: 40 units
+- Unit Price: $27.35
+- Total Order Value: $1,094.00
+- Required Delivery Date: December 23, 2026
+
+Please confirm receipt of this order and provide an estimated delivery date at your earliest convenience.
+
+Thank you,
+
+Acme Manufacturing
+Procurement Department

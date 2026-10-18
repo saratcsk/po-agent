@@ -1,0 +1,22 @@
+**Subject: Purchase Order – Circuit Breaker 20A**
+
+---
+
+Dear Pinecrest Motors,
+
+Please find our purchase order details below:
+
+• **Item:** Circuit breaker 20A
+• **Quantity:** 31 units
+• **Unit Price:** $27.35
+• **Total Amount:** $847.85
+• **Required Delivery Date:** December 08, 2026
+
+Please confirm receipt of this order and provide an estimated delivery date.
+
+Thank you for your attention to this matter.
+
+Best regards,
+
+Acme Manufacturing
+Buyer

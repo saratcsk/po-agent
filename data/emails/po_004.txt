@@ -1,0 +1,27 @@
+**Subject: FW: Purchase Order - Cable Tie Pack Order**
+
+---
+
+**From:** buyer@acmemanufacturing.com  
+**To:** orders@summitfasteners.com  
+**Date:** [Current Date]
+
+---
+
+Hello,
+
+Please process the following purchase order:
+
+**Order Details:**
+- Item: Cable tie pack
+- Quantity: 22 units
+- Unit Price: $222.93
+- Total: $4,904.46
+- Delivery Required By: December 06, 2026
+
+Please confirm receipt and expected shipment date.
+
+Thank you,
+
+**Acme Manufacturing**  
+Purchasing Department

@@ -1,0 +1,31 @@
+item_id,item_name,supplier_id,contract_price,stock_on_hand
+I001,Steel bracket,S001,160.58,12
+I002,Copper wire 10m,S002,185.9,125
+I003,PVC pipe 2in,S003,57.36,377
+I004,Hex bolt M8,S004,27.42,379
+I005,Ball valve 1in,S005,223.26,44
+I006,Fan motor 1HP,S006,148.44,16
+I007,Cardboard box large,S007,9.39,111
+I008,Epoxy primer 1gal,S008,59.7,308
+I009,Aluminum sheet,S009,8.58,101
+I010,Rubber gasket,S010,179.57,359
+I011,Pressure sensor,S001,137.15,112
+I012,Thermostat control,S002,113.4,142
+I013,Drill bit set,S003,202.74,3
+I014,Cable tie pack,S004,190.18,81
+I015,Hinge heavy duty,S005,175.14,174
+I016,Compressor seal,S006,70.91,110
+I017,Coil assembly,S007,239.39,172
+I018,Circuit breaker 20A,S008,27.35,194
+I019,Shrink wrap roll,S009,25.99,433
+I020,Paint thinner 1gal,S010,87.3,135
+I021,Brass fitting,S001,202.17,373
+I022,Fan blade 18in,S002,115.94,63
+I023,Mounting plate,S003,243.33,193
+I024,Wire connector pack,S004,21.54,150
+I025,Air filter,S005,207.69,316
+I026,Control board,S006,221.59,185
+I027,Pallet wrap,S007,145.18,360
+I028,Lock washer M8,S008,19.25,338
+I029,Duct tape roll,S009,58.52,148
+I030,Relay switch,S010,246.33,437

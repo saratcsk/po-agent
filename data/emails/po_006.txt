@@ -1,0 +1,27 @@
+**Subject: FW: Purchase Order - Shrink Wrap Roll**
+
+---
+
+From: buyer@acmemanufacturing.com
+To: sales@harborcoatings.com
+Date: [Current Date]
+
+Hello,
+
+Please see the purchase order details below for processing.
+
+**Purchase Order Details:**
+
+Vendor: Harbor Coatings
+Item: Shrink wrap roll
+Quantity: 152 units
+Unit Price: $25.99
+Total: $3,950.48
+Delivery Date Required: December 08, 2026
+
+Please confirm receipt and expected shipment date.
+
+Thank you,
+
+Acme Manufacturing
+Buyer Department

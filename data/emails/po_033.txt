@@ -1,0 +1,18 @@
+**Subject:** Purchase Order – Titanium Flange 4in – 99 Units
+
+Dear Summit Fasteners,
+
+Please process the following purchase order:
+
+• **Product:** Titanium flange 4in
+• **Quantity:** 99 units
+• **Unit Price:** $190.18
+• **Total Amount:** $18,827.82
+• **Required Delivery Date:** December 10, 2026
+
+Please confirm receipt and expected shipment date at your earliest convenience.
+
+Thank you,
+
+Acme Manufacturing
+Buyer

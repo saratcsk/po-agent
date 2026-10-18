@@ -1,0 +1,20 @@
+**Subject: Purchase Order – Titanium Flange 4in**
+
+Dear Bluefield Plastics,
+
+Please process the following purchase order:
+
+**Item:** Titanium Flange 4in
+**Quantity:** 59 units
+**Unit Price:** $185.90
+**Total Amount:** $10,968.10
+**Required Delivery Date:** November 03, 2026
+
+Please confirm receipt of this order and provide an expected delivery date at your earliest convenience.
+
+Thank you.
+
+Best regards,
+
+Acme Manufacturing
+Buyer

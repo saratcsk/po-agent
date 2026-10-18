@@ -1,0 +1,19 @@
+**Subject: Purchase Order – Pressure Sensors**
+
+Dear Northwind Metals,
+
+Please provide a quotation and confirm availability for the following:
+
+**Item:** Pressure Sensor
+**Quantity:** 106 units
+**Unit Price:** $137.15
+**Required Delivery Date:** December 12, 2026
+
+Please confirm receipt of this purchase order and provide an estimated delivery date at your earliest convenience.
+
+Thank you.
+
+Best regards,
+
+Acme Manufacturing
+Buyer

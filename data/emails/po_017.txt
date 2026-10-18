@@ -1,0 +1,25 @@
+**Subject: FW: Purchase Order – Air Filter Order**
+
+---
+
+**From:** buyer@acmemanufacturing.com  
+**To:** sales@lakesidepackaging.com  
+**Date:** [Current Date]
+
+Hi Lakeside Packaging,
+
+Please see the purchase order details below:
+
+**Purchase Order Details:**
+
+- **Product:** Air filter
+- **Quantity:** 43 units
+- **Unit Price:** $207.69
+- **Total Amount:** $8,931.67
+- **Required Delivery Date:** December 30, 2026
+
+Please confirm receipt of this order and provide an expected shipping date.
+
+Thank you,
+
+Acme Manufacturing

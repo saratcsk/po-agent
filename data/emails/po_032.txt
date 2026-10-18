@@ -1,0 +1,23 @@
+**Subject: Purchase Order – Fan Motor 1HP Units**
+
+---
+
+Hi there,
+
+Hope you're doing well! We'd like to place an order with you for some fan motors.
+
+Here are the details:
+
+**Item:** Fan motor 1HP  
+**Quantity:** 77 units  
+**Unit Price:** $148.44  
+**Total:** $11,430.88  
+**Needed By:** November 01, 2026
+
+We'd appreciate it if you could get these shipped out so we have them by the date above. Let us know if you need any other info from us or if you have any questions.
+
+Thanks so much, and we look forward to working with you!
+
+Best regards,
+
+**Acme Manufacturing**

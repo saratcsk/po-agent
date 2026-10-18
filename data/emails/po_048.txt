@@ -1,0 +1,19 @@
+**Subject: Purchase Order – 42 Units Coil Assembly**
+
+Dear Clearwater Valves,
+
+Please process the following purchase order:
+
+• **Quantity:** 42 units
+• **Product:** Coil assembly
+• **Unit Price:** $239.39
+• **Total Amount:** $10,054.38
+• **Required Delivery Date:** December 15, 2026
+• **Buyer:** Acme Manufacturing
+
+Please confirm receipt of this order and provide an estimated ship date at your earliest convenience.
+
+Thank you,
+
+Acme Manufacturing
+Procurement Department

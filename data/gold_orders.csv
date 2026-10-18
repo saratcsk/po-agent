@@ -1,0 +1,51 @@
+email_id,supplier,item,quantity,unit_price,need_by,problem
+po_001,Northwind Metals,Pressure sensor,106,137.15,2026-12-12,none
+po_002,Riverstone Electric,Titanium flange 4in,29,57.36,2026-11-24,unknown_item
+po_003,Bluefield Plastics,Titanium flange 4in,59,185.9,2026-11-03,unknown_item
+po_004,Summit Fasteners,Cable tie pack,22,222.93,2026-12-06,price_above_contract
+po_005,Bluefield Plastics,Copper wire 10m,62,185.9,2026-12-11,none
+po_006,Harbor Coatings,Shrink wrap roll,152,25.99,2026-12-08,none
+po_007,Bluefield Plastics,Copper wire 10m,16,185.9,2026-12-06,none
+po_008,Granite Tooling,Rubber gasket,41,226.65,2026-12-07,price_above_contract
+po_009,Pinecrest Motors,Circuit breaker 20A,31,27.35,2026-12-08,none
+po_010,Northwind Metals,Brass fitting,100,202.17,2026-11-07,none
+po_011,Riverstone Electric,Mounting plate,149,243.33,2026-11-04,none
+po_012,Clearwater Valves,Cardboard box large,199,9.39,2026-11-28,quantity_above_stock
+po_013,Lakeside Packaging,Hinge heavy duty,232,175.14,2026-11-16,quantity_above_stock
+po_014,Riverstone Electric,Mounting plate,25,243.33,2026-12-07,none
+po_015,Clearwater Valves,Coil assembly,249,239.39,2026-11-19,quantity_above_stock
+po_016,Riverstone Electric,PVC pipe 2in,136,57.36,2026-11-27,none
+po_017,Lakeside Packaging,Air filter,43,207.69,2026-12-30,none
+po_018,Summit Fasteners,Cable tie pack,176,190.18,2026-11-05,none
+po_019,Harbor Coatings,Shrink wrap roll,92,25.99,2026-12-15,none
+po_020,Granite Tooling,Paint thinner 1gal,213,87.3,2026-11-05,quantity_above_stock
+po_021,Harbor Coatings,Aluminum sheet,129,8.58,2026-11-04,quantity_above_stock
+po_022,Riverstone Electric,Mounting plate,170,243.33,2026-12-07,none
+po_023,Clearwater Valves,Pallet wrap,429,145.18,2026-12-27,quantity_above_stock
+po_024,Bluefield Plastics,Thermostat control,123,113.4,2026-11-23,none
+po_025,Granite Tooling,Paint thinner 1gal,131,87.3,2026-11-04,none
+po_026,Lakeside Packaging,Air filter,38,207.69,2026-12-18,none
+po_027,Riverstone Electric,Drill bit set,132,227.92,2026-11-29,price_above_contract
+po_028,Pinecrest Motors,Circuit breaker 20A,40,27.35,2026-12-23,none
+po_029,Pinecrest Motors,Titanium flange 4in,76,19.25,2026-12-16,unknown_item
+po_030,Bluefield Plastics,Thermostat control,64,129.87,2026-11-12,price_above_contract
+po_031,Pinecrest Motors,Epoxy primer 1gal,8,59.7,2026-12-02,none
+po_032,Ironbridge Castings,Fan motor 1HP,77,148.44,2026-11-01,none
+po_033,Summit Fasteners,Titanium flange 4in,99,190.18,2026-12-10,unknown_item
+po_034,Northwind Metals,Pressure sensor,181,137.15,2026-12-25,none
+po_035,Granite Tooling,Paint thinner 1gal,121,87.3,2026-12-28,none
+po_036,Ironbridge Castings,Titanium flange 4in,105,221.59,2026-11-26,unknown_item
+po_037,Riverstone Electric,Drill bit set,128,202.74,2026-12-11,none
+po_038,Bluefield Plastics,Copper wire 10m,22,185.9,2026-11-14,none
+po_039,Ironbridge Castings,Fan motor 1HP,92,148.44,2026-12-09,none
+po_040,Summit Fasteners,Hex bolt M8,150,27.42,2026-11-10,none
+po_041,Summit Fasteners,Hex bolt M8,162,27.42,2026-11-02,none
+po_042,Pinecrest Motors,Lock washer M8,162,19.25,2026-11-25,none
+po_043,Northwind Metals,Brass fitting,93,202.17,2026-12-09,none
+po_044,Ironbridge Castings,Compressor seal,34,70.91,2026-12-25,none
+po_045,Lakeside Packaging,Hinge heavy duty,233,175.14,2026-11-06,quantity_above_stock
+po_046,Summit Fasteners,Hex bolt M8,194,27.42,2026-11-17,none
+po_047,Clearwater Valves,Pallet wrap,137,145.18,2026-11-02,none
+po_048,Clearwater Valves,Coil assembly,42,239.39,2026-12-15,none
+po_049,Granite Tooling,Relay switch,199,246.33,2026-12-04,none
+po_050,Northwind Metals,Brass fitting,183,202.17,2026-12-25,none

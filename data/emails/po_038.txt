@@ -1,0 +1,23 @@
+**Subject: FW: Purchase Order Request - Copper Wire 10m**
+
+---
+
+**From:** buyer@acmemanufacturing.com  
+**To:** sales@bluefieldplastics.com  
+**Date:** [Current Date]
+
+Hello,
+
+Please see the purchase order details below for your processing.
+
+**Item:** Copper wire 10m  
+**Quantity:** 22 units  
+**Unit Price:** $185.90  
+**Total Amount:** $4,089.80  
+**Delivery Date Required:** November 14, 2026
+
+Please confirm receipt of this order and provide an expected ship date.
+
+Thank you,
+
+Acme Manufacturing - Procurement Department

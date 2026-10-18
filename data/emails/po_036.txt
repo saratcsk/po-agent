@@ -1,0 +1,29 @@
+**Subject: FW: Purchase Order - Titanium Flange 4in**
+
+---
+
+From: buyer@acmemanufacturing.com
+To: sales@ironbridgecastings.com
+Date: [Current Date]
+
+---
+
+Please process the following purchase order:
+
+**Purchase Order Details:**
+
+- **Order Number:** 105
+- **Item:** Titanium flange 4in
+- **Quantity:** 105 units
+- **Unit Price:** $221.59
+- **Total Amount:** $23,266.95
+- **Required Delivery Date:** November 26, 2026
+
+Please confirm receipt of this order and provide an estimated delivery date.
+
+Thank you.
+
+---
+
+**Acme Manufacturing**
+Procurement Department

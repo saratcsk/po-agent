@@ -1,0 +1,20 @@
+Subject: Purchase Order Request – Hex Bolt M8
+
+Dear Summit Fasteners,
+
+Please process the following purchase order:
+
+**Item:** Hex Bolt M8
+**Quantity:** 162 units
+**Unit Price:** $27.42
+**Total Amount:** $4,441.04
+**Delivery Required By:** November 02, 2026
+
+Please confirm receipt and expected delivery date at your earliest convenience.
+
+Thank you.
+
+Best regards,
+
+Acme Manufacturing
+Buyer

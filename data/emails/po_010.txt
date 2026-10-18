@@ -1,0 +1,20 @@
+**Subject: Purchase Order – 100 Units Brass Fitting**
+
+Dear Northwind Metals,
+
+Please find our purchase order details below:
+
+• **Product:** Brass fitting
+• **Quantity:** 100 units
+• **Unit Price:** $202.17
+• **Total Amount:** $20,217.00
+• **Required Delivery Date:** November 07, 2026
+• **Buyer:** Acme Manufacturing
+
+Please confirm receipt of this order and provide an expected shipment date at your earliest convenience.
+
+Thank you for your attention to this matter.
+
+Best regards,
+
+Acme Manufacturing
